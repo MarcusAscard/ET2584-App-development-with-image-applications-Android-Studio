@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\font_belgrano.xml.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\font\\belgrano.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_add_btn2.jpg.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable\\app_add_btn2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_mod_btn.jpg.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable\\app_mod_btn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_bckgrnd.jpg.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable\\app_bckgrnd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_add_btn.jpg.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable\\app_add_btn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Marcu\\Desktop\\ImageEnhancerExample\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.softa.imageenhancer"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:5:22-77
+12
+13    <application
+13-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:7:5-23:19
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.0.0] C:\Users\Marcu\.gradle\caches\transforms-2\files-2.1\704168206db443cc6a8404f53cd4e417\core-1.0.0\AndroidManifest.xml:22:18-86
+15        android:debuggable="true"
+16        android:icon="@drawable/ic_launcher"
+16-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:8:9-45
+17        android:label="@string/app_name"
+17-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:9:9-41
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:10:9-40
+20        <activity
+20-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:11:9-19:20
+21            android:name="com.softa.imageenhancer.MainActivity"
+21-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:12:13-41
+22            android:label="@string/title_activity_main"
+22-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:13:13-56
+23            android:screenOrientation="portrait" >
+23-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:13:57-93
+24            <intent-filter>
+24-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:15:17-69
+25-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:17:17-77
+27-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <meta-data
+31-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:20:9-22:57
+32            android:name="preloaded_fonts"
+32-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:21:13-43
+33            android:resource="@array/preloaded_fonts" />
+33-->C:\Users\Marcu\Desktop\ImageEnhancerExample\app\src\main\AndroidManifest.xml:22:13-54
+34    </application>
+35
+36</manifest>

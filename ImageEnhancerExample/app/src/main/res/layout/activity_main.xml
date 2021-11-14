@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_bckgrnd">
+
+    <ImageView
+        android:id="@+id/imageview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/before_image" />
+
+
+    <ImageView
+        android:id="@+id/imageview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageview1"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/after_image" />
+
+    <Button
+        android:id="@+id/improve_button"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/app_mod_btn"
+        android:text="@string/improve_image_text"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/load_button"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="270dp"
+        android:background="@drawable/app_add_btn2"
+        android:gravity="center_vertical"
+        android:textColor="#000000"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView"
+
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="85dp"
+
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_weight="0.8"
+
+        android:fontFamily="@font/belgrano"
+        android:text="Select an image to enhance"
+        android:textColor="@android:color/background_light"
+        android:textSize="19sp" />
+
+</RelativeLayout>
